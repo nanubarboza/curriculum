@@ -16,21 +16,17 @@ header {
 #titulo {
     padding: 20;
     color: #121212;
-    
     border-radius: 2%;
-    
-
-}
-
+    }
 #quiensoy {
     font-size: 2rem;
     color: rgb(39, 39, 39);
 }
-
 #accesos {
     inline-size: auto;
     display: flexbox;
     flex: auto;
+    }
     
 h1 {
     font-size: 4rem;
