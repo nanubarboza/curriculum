@@ -26,6 +26,12 @@ header {
     font-size: 2rem;
     color: rgb(39, 39, 39);
 }
+
+#accesos {
+    inline-size: auto;
+    display: flexbox;
+    flex: auto;
+    
 h1 {
     font-size: 4rem;
     margin: 0;
