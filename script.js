@@ -4,11 +4,12 @@ document.addEventListener("DOMContentLoaded", function() {
     links.forEach(link => {
         link.addEventListener("mouseover", () => {
             link.style.color = "#ffffff";
-            link.style.backgroundColor = "#550000";
+            link.style.backgroundColor = "#54a88c";
+
         });
 
         link.addEventListener("mouseout", () => {
-            link.style.color = "#d0d0d0";
+            link.style.color = "#54a88c";
             link.style.backgroundColor = "transparent";
         });
     });
